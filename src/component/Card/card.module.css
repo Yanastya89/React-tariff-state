@@ -1,0 +1,83 @@
+.wrapper {
+  min-width: 22%;
+  color: white;
+  font-family: "Pangolin", cursive;
+  font-size: 1.5vw;
+  text-align: center;
+}
+
+.title {
+  padding: 8% 0;
+}
+
+.titleColor300 {
+  background-color: rgb(6, 126, 142);
+}
+
+.priceColor300 {
+  background-color: rgb(6, 150, 150);
+}
+
+.titleColor450 {
+  background-color: #226e56;
+}
+
+.priceColor450 {
+  background-color: #32b696;
+}
+
+.titleColor550 {
+  background-color: #950f16;
+}
+
+.priceColor550 {
+  background-color: #be3c45;
+}
+
+.titleColor1000 {
+  background-color: #2d2c2c;
+}
+
+.priceColor1000 {
+  background-color: #3d3b3b;
+}
+
+.speed {
+  background-color: rgb(232, 232, 232);
+  padding: 1rem 0;
+  color: gray;
+}
+
+.speedLimit {
+  background-color: rgb(226, 224, 224);
+  padding: 1rem 0;
+  color: gray;
+}
+
+.priceContainer {
+  color: white;
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 2px;
+}
+
+.pricePart1 {
+  align-self: flex-start;
+  padding: 0 3%;
+}
+
+.pricePart2 {
+  font-size: 3rem;
+}
+
+.pricePart3 {
+  align-self: flex-end;
+  padding: 0 3%;
+}
+
+.true {
+  transform: scale(1.1);
+  box-shadow: 2px 2px 5px gray;
+}/*# sourceMappingURL=card.module.css.map */

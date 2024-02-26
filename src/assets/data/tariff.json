@@ -1,0 +1,43 @@
+[
+    {
+"tariff":"Безлимитный 300",
+"price":"руб 300 /мес",
+"speed":"до 10 Мбит/сек",
+"speedlimit": "Объём включенного трафика не ограничен" ,
+"titleColor": "titleColor300",
+"priceColor":"priceColor300",
+
+"id:":1
+    },
+    {
+      "tariff":"Безлимитный 450",
+      "price":"руб 450 /мес",
+      "speed":"до 50 Мбит/сек",
+      "speedlimit": "Объём включенного трафика не ограничен" ,
+      "titleColor": "titleColor450",
+      "priceColor": "priceColor450",
+     
+      "id:":2
+          },
+          {
+            "tariff":"Безлимитный 550",
+            "price":"руб 550 /мес",
+            "speed":"до 100 Мбит/сек",
+            "speedlimit": "Объём включенного трафика не ограничен", 
+            "titleColor": "titleColor550",
+            "priceColor":"priceColor550",
+      
+            "id:":3
+                },
+                {
+                  "tariff":"Безлимитный 1000",
+                  "price":"руб 1000 /мес",
+                  "speed":"до 200 Мбит/сек",
+                  "speedlimit": "Объём включенного трафика не ограничен" ,
+                  "titleColor": "titleColor1000",
+                  "priceColor":"priceColor1000",
+              
+                  "id:":4
+                      }
+  ]
+
